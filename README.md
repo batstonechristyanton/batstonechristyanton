@@ -240,7 +240,8 @@ Always interested in conversations around:
 
 ### Build something meaningful. Make it scalable. Make it better.
 
-**[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/Daxelman)**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/batstone)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batstone-christyanton/)
 
 *What are you building, and what engineering problem are you trying to solve?*
 
